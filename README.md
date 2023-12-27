@@ -1,4 +1,4 @@
-# Psyence(인공지능 기초 솔루션 기업)과 협업하여 Nasa Turbofan 데이터를 활용하여 RUL prediction README 파일
+# Psyence(인공지능 기초 솔루션 기업)과 협업하여 Nasa Turbofan 데이터를 활용하여 RUL prediction
 
 ## Description
 
